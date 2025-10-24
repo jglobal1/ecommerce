@@ -102,7 +102,7 @@ export function Footer() {
         </div>
 
         <div className="border-t pt-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
-          <p>&copy; 2024 CommercePro. All rights reserved.</p>
+          <p>&copy; 2025 johnson oluwafemi adedokun. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-primary">Privacy Policy</a>
             <a href="#" className="hover:text-primary">Terms of Service</a>
